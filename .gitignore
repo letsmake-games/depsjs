@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Node modules
+*node_modules*
+
+# OSX
+.DS_Store
+
+.idea
+npm-debug.log.*
